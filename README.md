@@ -1,1 +1,1 @@
-# Fundamentos-de-Sistemas-Operacionais---2025.1
+# FGA0170 - FUNDAMENTOS DE SISTEMAS OPERACIONAIS - Turma 01 - 2025/1
